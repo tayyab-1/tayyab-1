@@ -10,8 +10,19 @@
 <a href="https://www.linkedin.com/in/tayyab123"><img width="32px" alt="Linkedin" title="Linkedin" src="https://img.icons8.com/fluency/48/null/linkedin-2.png"/></a>
 </p>
 
-## 🛠️ Languages and Tools
+<br/>
+
+## 🤔 What I am Up To
+- 🔭 I’m currently working on [OnTrack](https://ontracktechgroup.com/)
+- 🌱 I’m currently learning **Angular**
+- 👀 I’m interested in coding, problem solving and learning new things
+- 💞️ I’m looking to collaborate on anything that can help me grow!
+
+</br>
+
+## 🛠️ Languages / Tools / Stats
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+<img align="right" alt="Coding" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=tayyab-1&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -30,17 +41,3 @@
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-<br/>
-
-## 🤔 What I am Up To
-- 🔭 I’m currently working on [OnTrack](https://ontracktechgroup.com/)
-- 🌱 I’m currently learning **Angular**
-- 👀 I’m interested in coding, problem solving and learning new things
-- 💞️ I’m looking to collaborate on anything that can help me grow!
-
-<br/>
-
-## 🔥 GitHub Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tayyab-1&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tayyab-1&layout=compact&hide=scss&langs_count=8&theme=dark&background=000000" /> 
