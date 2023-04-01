@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://ibb.co/1mBG67m" width="100%"/>
+  <img src="[https://ibb.co/1mBG67m](https://i.ibb.co/wz8hsBz/IMG-20230401-194934.jpg)" width="100%"/>
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
 </div>
 <h3 align="center">A passionate web developer from Pakistan</h3>
