@@ -1,4 +1,7 @@
+<div id="header" align="center">
+  <img src="https://ibb.co/1mBG67m" width="100%"/>
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
+</div>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
 - 🔭 I’m currently working on [OnTrack](https://ontracktechgroup.com/)
