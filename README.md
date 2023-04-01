@@ -2,8 +2,6 @@
   <img src="https://i.ibb.co/G5GQTn5/IMG-20230401-194934.jpg" width="100%"/>
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
 </div>
-<h3 align="center">A passionate web developer from Pakistan</h3>
-
 - 🔭 I’m currently working on [OnTrack](https://ontracktechgroup.com/)
 
 - 🌱 I’m currently learning **Angular**
