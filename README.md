@@ -46,3 +46,4 @@
 
 ## 📫 Resume
 **[Online Resume](https://tayyab-1.github.io/resume/)**
+<a href="https://tayyab-1.github.io/resume/" target=_blank>rsume</a>
