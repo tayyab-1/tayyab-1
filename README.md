@@ -2,7 +2,7 @@
 <a href="https://github.com/tayyab-1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1&center=true&repeat=false&width=435&lines=Hello!+I'm+Tayyab." alt="Muhammad Tayyab" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/tayyab-1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&&width=435&lines=Full-stack+web+developer.;3%2B+years+of+coding+experience.;Always+learning+new+things." alt="" /></a>
+<a href="https://github.com/tayyab-1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&&width=435&lines=Full-stack+Javascript+web+developer.;4%2B+years+of+coding+experience.;Always+learning+new+things." alt="" /></a>
 </p>
 <p align="center">
 <a href="https://twitter.com/_imtayyab"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/fluency/48/null/twitter.png"/></a>
@@ -42,4 +42,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<a href="https://tayyab-1.github.io/resume/" >Resume</a>
+</br>
+
+## 📫 Resume
+**[Online Resume](https://tayyab-1.github.io/resume/)**
