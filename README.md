@@ -20,12 +20,6 @@
 </br>
 
 ## 🛠️ Languages / Tools / Stats
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-<img align="right" alt="Coding" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=tayyab-1&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
 ![Node.js](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node.js)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)&nbsp;
 ![Express](https://img.shields.io/badge/-ExpressJs-05122A?style=flat&logo=express)&nbsp;
@@ -37,6 +31,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=fff)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+<img align="right" alt="Coding" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=tayyab-1&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
