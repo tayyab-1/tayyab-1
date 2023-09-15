@@ -13,9 +13,8 @@
 <br/>
 
 ## 🤔 What I am Up To
-- 🔭 I’m currently working on [OnTrack](https://ontracktechgroup.com/).
-- 🌱 I’m currently learning **Angular**.
-- 👀 I’m interested in coding, problem solving and learning new things.
+- 🌱 I’m currently working as a MEAN stack developer on project [OnTrack](https://ontracktechgroup.com/).
+- 👀 I’m interested in coding, problem-solving, and learning new things.
 - 💞️ I’m looking to collaborate on anything that can help me grow!
 
 </br>
