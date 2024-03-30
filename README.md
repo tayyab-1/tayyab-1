@@ -43,4 +43,7 @@
 </br>
 
 ## 📫 Resume
-**[Online Resume](https://drive.google.com/file/d/1nhlB5mD4z-DBCc7CcZtdNM9MSpIcVlC5/view?usp=sharing)**
+**<a href="https://drive.google.com/file/d/1nhlB5mD4z-DBCc7CcZtdNM9MSpIcVlC5/view?usp=sharing" target="_blank">Online Resume</a>**
+</br>
+[Muhammad Tayyab.pdf](https://github.com/tayyab-1/tayyab-1/files/14811384/Muhammad.Tayyab.pdf)
+
