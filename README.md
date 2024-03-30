@@ -20,11 +20,11 @@
 </br>
 
 ## 🛠️ Languages / Tools / Stats
-![Node.js](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node.js)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)&nbsp;
-![Express](https://img.shields.io/badge/-ExpressJs-05122A?style=flat&logo=express)&nbsp;
+![Django](https://img.shields.io/badge/-django-%23092E20?logo=Django)&nbsp;
+![Node.js](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node.js)&nbsp;
 ![Nest](https://img.shields.io/badge/NestJs-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
-![React](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)&nbsp;
+![Express](https://img.shields.io/badge/-ExpressJs-05122A?style=flat&logo=express)&nbsp;
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
@@ -43,4 +43,4 @@
 </br>
 
 ## 📫 Resume
-**[Online Resume](https://tayyab-1.github.io/resume/)**
+**[Online Resume](https://drive.google.com/file/d/1nhlB5mD4z-DBCc7CcZtdNM9MSpIcVlC5/view?usp=sharing)**
