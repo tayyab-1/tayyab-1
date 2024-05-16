@@ -13,7 +13,7 @@
 <br/>
 
 ## 🤔 What I am Up To
-- 🌱 I’m currently working as a MEAN stack developer on project [OnTrack](https://ontracktechgroup.com/).
+- 🌱 I’m currently working as a MEAN stack developer on the project [OnTrack](https://ontracktechgroup.com/).
 - 👀 I’m interested in coding, problem-solving, and learning new things.
 - 💞️ I’m looking to collaborate on anything that can help me grow!
 
@@ -45,5 +45,4 @@
 ## 📫 Resume
 [View Online](https://drive.google.com/file/d/1nhlB5mD4z-DBCc7CcZtdNM9MSpIcVlC5/view?usp=sharing)
 </br>
-[Download PDF](https://github.com/tayyab-1/tayyab-1/files/14811384/Muhammad.Tayyab.pdf)
-
+[Download PDF](https://github.com/tayyab-1/tayyab-1/files/15339611/Muhammad.Tayyab.pdf)
